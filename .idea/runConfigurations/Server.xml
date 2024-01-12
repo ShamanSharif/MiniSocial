@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Server" type="MixRunConfigurationType" factoryName="Elixir Mix">
+    <module name="mini_social" />
+    <mix>
+      <argument>phx.server</argument>
+    </mix>
+    <module name="mini_social" />
+    <module-filters inherit-application-module-filters="true" />
+    <method v="2" />
+  </configuration>
+</component>
